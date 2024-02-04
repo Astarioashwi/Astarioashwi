@@ -1,4 +1,4 @@
-Greetings Folks 👋
+Greetings Gitizens 👋
 
 - 🔭 I’m currently working on game learning based apps and Machine learning algorithm.
 - 🖥️ Software developer with a keen interest in Machine Learning and Computer Architecture.
